@@ -54,5 +54,6 @@ body {
 }
 .Foto{
     border-radius: 35px;
-    width: 1000px;
+    width: 700px;
+    padding: 01%;
 }
